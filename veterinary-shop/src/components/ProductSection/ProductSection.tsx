@@ -3,7 +3,7 @@ import "../ProductSection/Product.css";
 import Dog1 from "../../assets/Dog1.webp"
 
 const ProductSection = () => {
-    const arr = [1, 2, 3, 4, 5 ,6]
+    const arr = [1, 2, 3, 4, 5 ,6 , 7, 8]
     return (
         <div className='product_section'>
             <div className='product_heading'>
